@@ -1,6 +1,5 @@
-# projeto-barberShop
 
-# projeto-Barbearia
+# Projeto-Barbearia
 <p>Desenvolvido site completo fictício de barbearia inspirado em atender ao público</p>
 Start  
 
